@@ -1,6 +1,6 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pushpak</h1>
-<img align="right" style={border-style: solid;border-color: red green blue yellow;border-width: 5px;} alt="Coding" width="470" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+<img align="right" alt="Coding" width="470" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpak-23&label=Profile%20views&color=0e75b6&style=flat" alt="pushpak-23" /> </p>
 
 - 🔭 I’m currently working on [HPC PROJECT](https://github.com/pushpak-23/AI-Driven-HPC-Workload-Detection-and-Migration-Platform)
@@ -26,6 +26,8 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=pushpak-23&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" align="right" width="300">
+
 # Clouds ☁️
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 # Programming Languages </>
