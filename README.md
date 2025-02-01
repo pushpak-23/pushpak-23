@@ -1,6 +1,6 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pushpak</h1>
-<img align="right" alt="Coding" width="460" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
+<img align="right" alt="Coding" width="470" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpak-23&label=Profile%20views&color=0e75b6&style=flat" alt="pushpak-23" /> </p>
 
 - 🔭 I’m currently working on [HPC PROJECT](https://github.com/pushpak-23/AI-Driven-HPC-Workload-Detection-and-Migration-Platform)
