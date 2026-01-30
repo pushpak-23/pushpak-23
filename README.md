@@ -3,19 +3,19 @@
 <img align="right" alt="Coding" width="470" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushpak-23&label=Profile%20views&color=0e75b6&style=flat" alt="pushpak-23" /> </p>
 
-- 🔭 I’m currently working on [HPC PROJECT](https://github.com/pushpak-23/AI-Driven-HPC-Workload-Detection-and-Migration-Platform)
+- 🔭 I’m currently working on [Kubnerates Cluster Builder](https://github.com/pushpak-23/K8s-builder)
 
-- 🌱 I’m currently learning **Automation**
+- 🌱 I’m currently learning **DevOps CI/CD **
 
-- 👯 I’m looking to collaborate on **Automation Script**
+- 👯 I’m looking to collaborate on **Kubnerates Cluster Builder Project**
 
 - 👨‍💻 All of my projects are available at [Website](https://portf-five-black.vercel.app/)
 
-- 💬 Ask me about **HPC and Cloud Security**
+- 💬 Ask me about **Infrastructure , Openstack , Ceph , Kubenates**
 
 - 📫 How to reach me **pushpakithule@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YKBW-v1IVIMIqNxbTqqA3BtT534yyaHL/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DkAy680kt22hkZh9LZcil4gATSusfVW1/view?usp=sharing)
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pushpak_ithule) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pushpak-ithule-831445208) 
