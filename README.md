@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Kubnerates Cluster Builder](https://github.com/pushpak-23/K8s-builder)
 
-- 🌱 I’m currently learning **DevOps CI/CD **
+- 🌱 I’m currently learning **DevOps CI/CD**
 
 - 👯 I’m looking to collaborate on **Kubnerates Cluster Builder Project**
 
